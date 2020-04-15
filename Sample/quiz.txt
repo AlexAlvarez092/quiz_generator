@@ -1,0 +1,241 @@
+Name:
+
+Date:
+
+                    My Test
+
+1. What is the capital of Hungary
+    A. Bucharest (Bucuresti)
+    B. Berlin
+    C. Luxembourg
+
+2. What is the capital of Belgium
+    A. Brussels (Bruxelles, Brüssel, Brussel)
+    B. Berlin
+    C. Podgorica
+
+3. What is the capital of Country
+    A. Prague
+    B. Oslo
+    C. Capital
+
+4. What is the capital of Albania
+    A. Brussels (Bruxelles, Brüssel, Brussel)
+    B. Tirana
+    C. Moscow
+
+5. What is the capital of Macedonia, Rep. of
+    A. Zagreb
+    B. Helsinki
+    C. Skopje
+
+6. What is the capital of Ireland
+    A. Dublin
+    B. Helsinki
+    C. Skopje
+
+7. What is the capital of Netherlands
+    A. Amsterdam
+    B. Berlin
+    C. Andorra la Vella
+
+8. What is the capital of Cyprus
+    A. Budapest
+    B. Podgorica
+    C. Andorra la Vella
+
+9. What is the capital of Austria
+    A. Capital
+    B. Sarajevo
+    C. Sofia
+
+10. What is the capital of Montenegro
+    A. Rome
+    B. Nuuk
+    C. Ljubljana
+
+11. What is the capital of Andorra
+    A. Dublin
+    B. Andorra la Vella
+    C. Luxembourg
+
+12. What is the capital of Denmark
+    A. Berlin
+    B. Riga
+    C. Ljubljana
+
+13. What is the capital of Luxembourg
+    A. Andorra la Vella
+    B. Luxembourg
+    C. Bratislava
+
+14. What is the capital of Greece
+    A. Athens (Athína)
+    B. Chisinau
+    C. Madrid
+
+15. What is the capital of Slovenia
+    A. San Marino
+    B. Nicosia
+    C. Ljubljana
+
+16. What is the capital of Romania
+    A. Ljubljana
+    B. Madrid
+    C. Berlin
+
+17. What is the capital of Iceland
+    A. Bratislava
+    B. Zagreb
+    C. Tallinn
+
+18. What is the capital of Bosnia & Herzegovina
+    A. Bucharest (Bucuresti)
+    B. London
+    C. Nuuk
+
+19. What is the capital of Moldova
+    A. Vatican City
+    B. Chisinau
+    C. Bern (Berne, Berna)
+
+20. What is the capital of Slovakia
+    A. Nicosia
+    B. Helsinki
+    C. Vatican City
+
+21. What is the capital of Bulgaria
+    A. Helsinki
+    B. Skopje
+    C. Sofia
+
+22. What is the capital of Malta
+    A. Budapest
+    B. Skopje
+    C. Luxembourg
+
+23. What is the capital of Norway
+    A. Rome
+    B. Oslo
+    C. Copenhagen (København)
+
+24. What is the capital of Serbia
+    A. Warsaw
+    B. Belgrade (Beograd)
+    C. Monaco
+
+25. What is the capital of Monaco
+    A. Monaco
+    B. Oslo
+    C. Dublin
+
+26. What is the capital of United Kingdom
+    A. Madrid
+    B. London
+    C. Rome
+
+27. What is the capital of Ukraine
+    A. Minsk
+    B. Kiev 
+    C. Vatican City
+
+28. What is the capital of Holy See
+    A. Vilnius
+    B. Sofia
+    C. Vatican City
+
+29. What is the capital of Italy
+    A. Belgrade (Beograd)
+    B. Sarajevo
+    C. Berlin
+
+30. What is the capital of San Marino
+    A. San Marino
+    B. Copenhagen (København)
+    C. Valletta
+
+31. What is the capital of Croatia
+    A. Brussels (Bruxelles, Brüssel, Brussel)
+    B. Sarajevo
+    C. Zagreb
+
+32. What is the capital of Greenland
+    A. Valletta
+    B. San Marino
+    C. Nuuk
+
+33. What is the capital of Sweden
+    A. Minsk
+    B. Vaduz
+    C. Riga
+
+34. What is the capital of Estonia
+    A. Moscow
+    B. Vienna
+    C. Tallinn
+
+35. What is the capital of Switzerland
+    A. Amsterdam
+    B. Athens (Athína)
+    C. Luxembourg
+
+36. What is the capital of Spain
+    A. Copenhagen (København)
+    B. Prague
+    C. Madrid
+
+37. What is the capital of Russia
+    A. Moscow
+    B. Bern (Berne, Berna)
+    C. Sofia
+
+38. What is the capital of Portugal
+    A. Lisbon
+    B. Podgorica
+    C. Helsinki
+
+39. What is the capital of Czech Republic
+    A. Valletta
+    B. Prague
+    C. San Marino
+
+40. What is the capital of France
+    A. Nicosia
+    B. Stockholm
+    C. Paris
+
+41. What is the capital of Germany
+    A. Monaco
+    B. Oslo
+    C. Berlin
+
+42. What is the capital of Poland
+    A. Madrid
+    B. Sarajevo
+    C. Warsaw
+
+43. What is the capital of Latvia
+    A. Skopje
+    B. Rome
+    C. Chisinau
+
+44. What is the capital of Lithuania
+    A. Nuuk
+    B. Belgrade (Beograd)
+    C. Valletta
+
+45. What is the capital of Belarus
+    A. Kiev 
+    B. Tirana
+    C. Minsk
+
+46. What is the capital of Liechtenstein
+    A. Vaduz
+    B. Podgorica
+    C. Kiev 
+
+47. What is the capital of Finland
+    A. Helsinki
+    B. Bern (Berne, Berna)
+    C. Stockholm
+
