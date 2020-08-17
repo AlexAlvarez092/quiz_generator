@@ -13,9 +13,8 @@ Simple tool to generate quizzes.
 
 ## Usage
 1. Fill the excel file with the raw data and properties
-  - In the first sheet, goes raw data **Without header** -- just raw data
-  - In the second sheet, goes configuration properties -- label already is
-  in first column and the property must gone in the second one
+  a. In the first sheet, goes raw data **Without header** -- just raw data
+  b. In the second sheet, goes configuration properties -- label already is in first column and the property must gone in the second one
 
 2. Install requirements
 
