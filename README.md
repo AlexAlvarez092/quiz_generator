@@ -6,10 +6,6 @@
 
 
 
-< br />
-
-
-
 [![Python][python-shield]][python-url]
 [![XLRD][xlrd-shield]][xlrd-url]
 
