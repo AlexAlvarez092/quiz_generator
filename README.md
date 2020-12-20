@@ -64,9 +64,9 @@ This tool allows you to easy and quick generate quizzes. From an excel file cont
 <<<<<<< Updated upstream
 <img src="images/screenshots/quiz.png" alt="Key" width="600" height="400> <br />
 =======
-[!Key](https://github.com/AlexAlvarez092/PY-Quiz-Generator/blob/master/images/screenshots/key.png)
+![Key](https://github.com/AlexAlvarez092/PY-Quiz-Generator/blob/master/images/screenshots/key.png)
 
-[!Quiz](https://github.com/AlexAlvarez092/PY-Quiz-Generator/blob/master/images/screenshots/quiz.png)
+![Quiz](https://github.com/AlexAlvarez092/PY-Quiz-Generator/blob/master/images/screenshots/quiz.png)
 
 >>>>>>> Stashed changes
 
