@@ -4,6 +4,8 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Python][python-shield]][python-url]
+[![XLRD][xlrd-shield]][xlrd-url]
 
 
 
@@ -141,8 +143,8 @@ Project Link: [https://github.com/AlexAlvarez092/PY-Quiz-Generator/issues](https
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Python3 Documentation](https://www.python.org/doc/)
-* [XLRD Documentation](https://pypi.org/project/xlrd/)
+* [Python][python-url]
+* [XLRD][xlrd-url]
 
 
 
@@ -161,3 +163,7 @@ Project Link: [https://github.com/AlexAlvarez092/PY-Quiz-Generator/issues](https
 [license-url]: https://github.com/AlexAlvarez092/PY-Quiz-Generator/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/alejandro-%C3%A1lvarez-garc%C3%ADa-365593124/
+[python-shield]: https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-blue
+[python-url]: https://www.python.org/
+[xlrd-shield]: https://img.shields.io/pypi/v/XLRD
+[xlrd-url]: https://pypi.org/project/xlrd/
