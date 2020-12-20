@@ -10,10 +10,9 @@
 
 
 <!-- PROJECT LOGO -->
-![Logo](https://github.com/AlexAlvarez092/PY-Quiz-Generator/blob/master/images/logo.png)
 <br />
 <p align="center">
-  <h3 align="center">Python Quiz Generator</h3>
+  <h1 align="center">Python Quiz Generator</h1>
 
   <p align="center">
     Simple tool to generate quizzes in the Python console.
@@ -66,8 +65,8 @@ This tool allows you to easy and quick generate quizzes. From an excel file cont
 
 ### Built With
 
-* [Python3](https://www.python.org/download/releases/3.0/)
-* [XLRD](https://pypi.org/project/xlrd/)
+* [Python3][python-url]
+* [XLRD][xlrd-url]
 
 
 <!-- GETTING STARTED -->
@@ -107,7 +106,7 @@ Excel [file](https://github.com/AlexAlvarez092/PY-Quiz-Generator/blob/master/dat
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/AlexAlvarez092/PY-Quiz-Generator/issues) for a list of proposed features (and known issues).
+See the [open issues][issues] for a list of proposed features (and known issues).
 
 
 
@@ -136,7 +135,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Alex Alvarez - <alexalvarez@mail.com>
 
-Project Link: [https://github.com/AlexAlvarez092/PY-Quiz-Generator/issues](https://github.com/AlexAlvarez092/PY-Quiz-Generator/)
+Project Link: [https://github.com/AlexAlvarez092/PY-Quiz-Generator/issues][issues]
 
 
 
@@ -167,3 +166,4 @@ Project Link: [https://github.com/AlexAlvarez092/PY-Quiz-Generator/issues](https
 [python-url]: https://www.python.org/
 [xlrd-shield]: https://img.shields.io/pypi/v/XLRD
 [xlrd-url]: https://pypi.org/project/xlrd/
+[issues]: https://github.com/AlexAlvarez092/PY-Quiz-Generator/issues
