@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/AlexAlvarez092/PY-Quiz-Generator>
-    <img src="README/logo.png" alt="Logo" width="80" height="80">
+    <img src="blob/master/README/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Python Quiz Generator</h3>
@@ -61,10 +61,9 @@
 
 This tool allows you to easy and quick generate quizzes. From an excel file containing the input information, it generates a couple of files: one containing plain text quiz and anothe one containing the answers.
 
--   <a href="https://github.com/AlexAlvarez092/PY-Quiz-Generator/README/Sample">Input and output files example</a>
+<img src="tree/master/README/screenshots/key.png" alt="Key" width="600" height="400> <br />
 
-<img src="README/screenshots/key.png" alt="Key" width="600" height="400>
-<img src="README/screenshots/quiz.png" alt="Quiz" width="600" height="400">
+<img src="tree/master/README/screenshots/quiz.png" alt="Quiz" width="600" height="400">
 
 ### Built With
 
@@ -102,7 +101,7 @@ Excel [file](https://github.com/AlexAlvarez092/PY-Quiz-Generator/data.xlsx) with
 
 ### Output
 
-`./quiz.txt` file containing the generated quiz
+`./quiz.txt` file containing the generated quiz <br />
 `./key.txt` file containing the answers
 
 
