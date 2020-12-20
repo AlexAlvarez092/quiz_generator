@@ -61,9 +61,9 @@
 
 This tool allows you to easy and quick generate quizzes. From an excel file containing the input information, it generates a couple of files: one containing plain text quiz and anothe one containing the answers.
 
-<img src="tree/master/README/screenshots/key.png" alt="Key" width="600" height="400> <br />
+<img src="blob/master/images/screenshots/key.png" alt="Key" width="600" height="400> <br />
 
-<img src="tree/master/README/screenshots/quiz.png" alt="Quiz" width="600" height="400">
+<img src="blob/master/images/screenshots/quiz.png" alt="Quiz" width="600" height="400">
 
 ### Built With
 
@@ -137,7 +137,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Alex Alvarez - <alexalvarez@mail.com>
 
-Project Link: [https://github.com/AlexAlvarez092/PY-Quiz-Generator/issues](https://github.com/AlexAlvarez092/PY-Quiz-Generator/issues)
+Project Link: [https://github.com/AlexAlvarez092/PY-Quiz-Generator/issues](https://github.com/AlexAlvarez092/PY-Quiz-Generator/)
 
 
 
