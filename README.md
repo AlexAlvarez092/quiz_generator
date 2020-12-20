@@ -8,12 +8,9 @@
 
 
 <!-- PROJECT LOGO -->
+![Logo](https://github.com/AlexAlvarez092/PY-Quiz-Generator/blob/master/images/logo.png)
 <br />
 <p align="center">
-  <a href="https://github.com/AlexAlvarez092/PY-Quiz-Generator>
-    ![Logo](https://github.com/AlexAlvarez092/PY-Quiz-Generator/blob/master/images/logo.png)
-  </a>
-
   <h3 align="center">Python Quiz Generator</h3>
 
   <p align="center">
