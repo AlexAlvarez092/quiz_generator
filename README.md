@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/AlexAlvarez092/PY-Quiz-Generator>
-    <img src="README/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Python Quiz Generator</h3>
