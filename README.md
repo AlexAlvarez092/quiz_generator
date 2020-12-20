@@ -3,7 +3,13 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+
+
+
 < br />
+
+
+
 [![Python][python-shield]][python-url]
 [![XLRD][xlrd-shield]][xlrd-url]
 
