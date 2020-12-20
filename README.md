@@ -97,7 +97,7 @@ Do not need installation, just run quizGenerator.py file
 
 ### Input
 
-Excel [file](https://github.com/AlexAlvarez092/PY-Quiz-Generator/data.xlsx) with raw data
+Excel [file](https://github.com/AlexAlvarez092/PY-Quiz-Generator/blob/master/data.xlsx) with raw data
 
 ### Output
 
@@ -152,15 +152,15 @@ Project Link: [https://github.com/AlexAlvarez092/PY-Quiz-Generator/issues](https
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/AlexAlvarez092/PY-Quiz-Generator.svg?style=for-the-badge
 [contributors-url]: https://github.com/AlexAlvarez092/PY-Quiz-Generator/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/AlexAlvarez092/PY-Quiz-Generator.svg?style=for-the-badge
 [forks-url]: https://github.com/AlexAlvarez092/PY-Quiz-Generator/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/AlexAlvarez092/PY-Quiz-Generator.svg?style=for-the-badge
 [stars-url]: https://github.com/AlexAlvarez092/PY-Quiz-Generator/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/AlexAlvarez092/PY-Quiz-Generator.svg?style=for-the-badge
 [issues-url]: https://github.com/AlexAlvarez092/PY-Quiz-Generator/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/AlexAlvarez092/PY-Quiz-Generator.svg?style=for-the-badge
 [license-url]: https://github.com/AlexAlvarez092/PY-Quiz-Generator/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/alejandro-%C3%A1lvarez-garc%C3%ADa-365593124/
